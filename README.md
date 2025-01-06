@@ -87,7 +87,7 @@
 <kbd>[<img title="Kurdî" alt="Kurdî" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Kurdistan.svg" width="22">](docs/translations/README.kr.md)</kbd>
 <kbd>[<img title="Malagasy" alt="Malagasy" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/mg.svg" width="22">](docs/translations/README.mg.md)</kbd>
 <kbd>[<img title="ភាសាខ្មែរ" alt="ភាសាខ្មែរ" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/kh.svg" width="22">](docs/translations/README.kh.md)</kbd>
-<kbd>[<img title="Morocco" alt="Moroccan Darija" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ma.svg" width="22">](docs/translations/README.ma.md)</kbd>
+
 
 # First Contributions
 
